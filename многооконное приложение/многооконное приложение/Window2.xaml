@@ -1,0 +1,24 @@
+﻿<Window x:Class="многооконное_приложение.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:многооконное_приложение"
+        mc:Ignorable="d"
+        Title="Window2" Height="200" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="bntPress" Click="btnPress_Click" Style="{DynamicResource 1}">Нажми</Button>
+        <Button x:Name="btnHeader" Click="btnHeader_Click" Grid.Column="1" Style="{DynamicResource 1}">Окно с заголовком</Button>
+        <Button x:Name="btnButton" Click="btnButton_Click" Grid.Row="1" Style="{DynamicResource 1}" >Окно с кнопками</Button>
+        <Button x:Name="btnIcon" Click="btnIcon_Click" Grid.Column="1" Grid.Row="1" Style="{DynamicResource 1}" >Окно с иконкой</Button>
+        
+    </Grid>
+</Window>

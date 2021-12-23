@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\bin\Debug\многооконное приложение.exe.config
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\bin\Debug\многооконное приложение.exe
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\bin\Debug\многооконное приложение.pdb
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение.csprojAssemblyReference.cache
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Window1.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\App.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение_MarkupCompile.cache
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение_MarkupCompile.lref
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\App.baml
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Window1.baml
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение.g.resources
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное_приложение.Properties.Resources.resources
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение.csproj.GenerateResource.cache
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение.exe
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\многооконное приложение.pdb
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Window2.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Window2.baml
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Header.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Press.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Header.baml
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Press.baml
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Buttons.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Buttons.baml
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Window3.g.cs
+C:\Users\user\Desktop\многооконное приложение\многооконное приложение\obj\Debug\Window3.baml
